@@ -1,0 +1,9 @@
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\bin\Debug\CodeTest.Nunit.dll
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\bin\Debug\CodeTest.Nunit.pdb
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\bin\Debug\nunit.framework.dll
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\bin\Debug\nunit.framework.xml
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\obj\Debug\CodeTest.Nunit.csprojAssemblyReference.cache
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\obj\Debug\CodeTest.Nunit.csproj.CoreCompileInputs.cache
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\obj\Debug\CodeTest.Nunit.csproj.CopyComplete
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\obj\Debug\CodeTest.Nunit.dll
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\CodeTest.Nunit\obj\Debug\CodeTest.Nunit.pdb
