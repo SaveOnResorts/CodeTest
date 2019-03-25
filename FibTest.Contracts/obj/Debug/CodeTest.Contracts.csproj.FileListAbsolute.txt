@@ -1,0 +1,6 @@
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Contracts\bin\Debug\CodeTest.Contracts.dll
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Contracts\bin\Debug\CodeTest.Contracts.pdb
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Contracts\obj\Debug\CodeTest.Contracts.csprojAssemblyReference.cache
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Contracts\obj\Debug\CodeTest.Contracts.csproj.CoreCompileInputs.cache
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Contracts\obj\Debug\CodeTest.Contracts.dll
+C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Contracts\obj\Debug\CodeTest.Contracts.pdb
