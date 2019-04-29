@@ -14,7 +14,6 @@ namespace CodeTest.Program
             {
                
             }
-
         }
     }
 }
