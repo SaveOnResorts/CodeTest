@@ -1,9 +1,0 @@
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\bin\Debug\CodeTest.Logic.dll
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\bin\Debug\CodeTest.Logic.pdb
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\bin\Debug\CodeTest.Contracts.dll
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\bin\Debug\CodeTest.Contracts.pdb
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\obj\Debug\CodeTest.Logic.csprojAssemblyReference.cache
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\obj\Debug\CodeTest.Logic.csproj.CoreCompileInputs.cache
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\obj\Debug\CodeTest.Logic.csproj.CopyComplete
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\obj\Debug\CodeTest.Logic.dll
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Logic\obj\Debug\CodeTest.Logic.pdb
