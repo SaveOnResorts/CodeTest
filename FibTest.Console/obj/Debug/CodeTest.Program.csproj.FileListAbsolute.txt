@@ -1,7 +1,0 @@
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\bin\Debug\CodeTest.Program.exe.config
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\bin\Debug\CodeTest.Program.exe
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\bin\Debug\CodeTest.Program.pdb
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\obj\Debug\CodeTest.Program.csprojAssemblyReference.cache
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\obj\Debug\CodeTest.Program.csproj.CoreCompileInputs.cache
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\obj\Debug\CodeTest.Program.exe
-C:\Site\TFS\Sandbox\CodeTestTemplate\Fib\FibTest.Console\obj\Debug\CodeTest.Program.pdb
